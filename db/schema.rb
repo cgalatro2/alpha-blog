@@ -17,5 +17,4 @@ ActiveRecord::Schema[7.0].define(version: 2022_03_03_021948) do
     t.datetime "updated_at"
     t.text "description"
   end
-
 end
